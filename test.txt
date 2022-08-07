@@ -1,0 +1,4 @@
+https://api.openweathermap.org/data/2.5/weather?q=gorakhpur&appid=70f40869c0baed77e1b15f9c3bd948dc
+
+
+70f40869c0baed77e1b15f9c3bd948dc
